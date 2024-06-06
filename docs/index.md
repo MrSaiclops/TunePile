@@ -196,4 +196,4 @@ Welcome to the TunePile API Reference. This documentation provides detailed info
 
 ### Retrieve a List of Songs and Links
 
-For a step-by-step guide on how to retrieve a list of songs and links using the TunePile API, please refer to our [key tutorial](/docs/tutorials/retrieve-a-list-of-songs-and-links.md).
+For a step-by-step guide on how to retrieve a list of songs and links using the TunePile API, please refer to our [key tutorial](/tutorials/retrieve-a-list-of-songs-and-links).
