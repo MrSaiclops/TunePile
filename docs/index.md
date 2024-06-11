@@ -2,6 +2,9 @@
 
 Welcome to the TunePile API Reference. This documentation provides detailed information about the available API endpoints and how to perform CRUD operations on TunePile's resources.
 
+## Quickstart
+Want to jump right in? Check the helpful [TunePile Quickstart Guide](/TunePile/tutorials/quickstart).
+
 ## Table of Contents
 
 1. [Create](#create)
@@ -194,6 +197,10 @@ Welcome to the TunePile API Reference. This documentation provides detailed info
 
 ## Tutorials
 
-### Retrieve a List of Songs and Links
-
-For a step-by-step guide on how to retrieve a list of songs and links using the TunePile API, please refer to our [key tutorial](/TunePile/tutorials/retrieve-a-list-of-songs-and-links).
+* [Retrieve a List of Songs and Links](/TunePile/tutorials/retrieve-a-list-of-songs-and-links)
+* [Filtering and Searching Tunes](/TunePile/tutorials/filtering-and-searching-tunes)
+* [Pagination of Tunes](/TunePile/tutorials/pagination-of-tunes)
+* [Adding Multiple Tunes in Bulk](/TunePile/tutorials/adding-multiple-tunes-in-bulk)
+* [Managing Users](/TunePile/tutorials/managing-users)
+* [Authentication](/TunePile/tutorials/authentication)
+* [Error Handling](/TunePile/tutorials/error-handling)
